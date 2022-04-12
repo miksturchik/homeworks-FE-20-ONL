@@ -1,0 +1,19 @@
+{
+    "name": "homeworks-fe-20-onl",
+    "version": "1.0.0",
+    "description": "node.js project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/miksturchik/homeworks-FE-20-ONL.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/miksturchik/homeworks-FE-20-ONL/issues"
+    },
+    "homepage": "https://github.com/miksturchik/homeworks-FE-20-ONL#readme"
+}
